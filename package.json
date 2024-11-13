@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@indexed-finance/multicall": "^2.0.0",
+    "@uniswap/sdk": "^3.0.3",
+    "dotenv": "^16.4.5",
+    "ethers": "5.4",
+    "log-timestamp": "^0.3.0",
+    "web3": "^4.13.0"
+  }
+}
